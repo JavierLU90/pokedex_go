@@ -2,7 +2,7 @@ package main
 
 import (
 	"time"
-	"internal/pokeapi"
+	"pokedex_go/internal/pokeapi"
 )
 
 func main() {

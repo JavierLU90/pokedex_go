@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 	"strings"
-	"github.com/JavierLU90/pokedex_go/internal/pokeapi"
+	"pokedex_go/internal/pokeapi"
 )
 
 type config struct {
